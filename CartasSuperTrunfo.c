@@ -2,6 +2,8 @@
 
 int main () {
 
+// Cadastro de Cartas - Novato
+
 
   // Declarando Variaveis //
 
